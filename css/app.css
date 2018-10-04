@@ -50,11 +50,26 @@ h2 {
     transition: transform 0.5s;
     text-shadow: 0 0 5px #01579b;
 }
-
-#belize {
+#Saudi {
     background-color: #4dd0e1;
 }
 
-#barcelona {
+#Ireland {
+    background-color: #800000;
+}
+
+#China {
+    background-color: #4dd0e1;
+}
+
+#Spain {
+    background-color: #800000;
+}
+
+#Dubai {
+    background-color: #4dd0e1;
+}
+
+#Cairo {
     background-color: #800000;
 }
